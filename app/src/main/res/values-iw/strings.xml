@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">קביעת ה DPI</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="back_button_custom">חזרה ל DPI מותאם אישית</string>
+    <string name="back_to_preset">ערכים קבועים מראש</string>
+    <string name="cancel">בטל</string>
+    <string name="custom_dpi_input">נא הכנס ערך מ 330 עד 480</string>
+    <string name="dialog_title">בחר DPI</string>
+    <string name="dpi_set_toast">ה DPI שלך נקבע ל %1$s</string>
+    <string name="exit">צא מהיישום</string>
+    <string name="gaining_root">מקבל הרשאות Root. נא להמתין ...</string>
+    <string name="illegal_value_title">הוכנס ערך לא חוקי !</string>
+    <string name="missing_su">המכשיר שלך ללא הראשות Root או שהיישום לא קיבל הרשאות root.\n\nבבקשה בדוק אם יש לך Root ונסה שוב מאוחר יותר.</string>
+    <string name="missing_su_title">לא הצלחתי לקבל הרשאות Root</string>
+    <string name="ok">אישור</string>
+    <string name="reboot_later">אני אאתחל מאוחר יותר</string>
+    <string name="reboot_message">ה DPI שלך נקבע ל %1$s.\n\n להחלת השינוי יש צורך לאתחל את המכשיר.\n\n האם אתה רוצה לאתחל עכשיו?\n\n אתה יכול לבחור לאתחל מאוחר יותר וה DPI שלך לא ישתנה עד אז.</string>
+    <string name="reboot_now">אתחל עכשיו</string>
+    <string name="reboot_title">איתחול מחדש</string>
+    <string name="show_current_dpi">קובע ה DPI\n ה DPI הנוכחי שלך הוא %1$s</string>
+    <string name="text_hint">הכנס ערך ה DPI כאן</string>
+    <string name="text_illegal_value">ה DPI במכשיר זה לא ניתן לקביע ל %1$s\n\n בבקשה ללכת אחורה ולקבוע את הערך בין 330 ל 480\n\n תודה רבה לך !</string>
+</resources>

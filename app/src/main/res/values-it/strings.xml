@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phronesis Cambio DPI</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="dialog_title">Seleziona Dpi</string>
+    <string name="show_current_dpi">DPI Changer\nValore corrente: %1$s</string>
+    <string-array name="dpi_values">
+        <item>480 dpi</item>
+        <item>450 dpi</item>
+        <item>420 dpi</item>
+        <item>390 dpi</item>
+        <item>360 dpi</item>
+        <item>330 dpi</item>
+        <item>Valore personalizzato</item>
+    </string-array>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancella</string>
+    <string name="executed">###Executed###</string>
+    <string name="custom_dpi_input">Inserisci un valore tra 330 e 480</string>
+    <string name="text_hint">Digita qui</string>
+    <string name="back_to_preset">Indietro</string>
+    <string name="illegal_value_title">Hai inserito un valore errato!</string>
+    <string name="missing_su_title">Impossibile l\' accesso al root</string>
+    <string name="missing_su">Il tuo device potrebbe non essere roottato o non hai consentito l\' accesso root.\n\nControlla l\'accesso Su o il root e riprova.</string>
+    <string name="text_illegal_value">Questo device non supporta il valore %1$s dpi\n\nInserisci un valore tra 330 e 480.\n\nGrazie!</string>
+    <string name="back_button_custom">Torna all\'inserimento</string>
+    <string name="exit">Esci dall\' app</string>
+    <string name="gaining_root">Acquisendo permessi di root. Attendi...</string>
+    <string name="dpi_set_toast">Dpi impostato a %1$s</string>
+    <string name="reboot_title">Riavvio</string>
+    <string name="reboot_message">Dpi impostato a %1$s.\n\nRiavvio necessario per applicare le modifiche.\n\nVuoi riavviare ora?\n\nPuoi selezionare riavvia dopo e fino ad allora non sarà applicato.</string>
+    <string name="reboot_now">Riavvia ora</string>
+    <string name="reboot_later">Riavvierò dopo</string>
+
+</resources>

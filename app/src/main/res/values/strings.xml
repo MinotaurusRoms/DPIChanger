@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phronesis DPI Changer</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_title">Select Dpi</string>
+    <string name="show_current_dpi">DPI Changer\nYour Current DPI is %1$s</string>
+    <string-array name="dpi_values">
+        <item>480 dpi</item>
+        <item>450 dpi</item>
+        <item>420 dpi</item>
+        <item>390 dpi</item>
+        <item>360 dpi</item>
+        <item>330 dpi</item>
+        <item>Custom DPI</item>
+    </string-array>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="executed" translatable="false">###Executed###</string>
+    <string name="custom_dpi_input">Please input value from 330 to 480</string>
+    <string name="text_hint">Input dpi value here</string>
+    <string name="back_to_preset">Preset Values</string>
+    <string name="illegal_value_title">Illegal value entered!</string>
+    <string name="missing_su_title">Could not get root access</string>
+    <string name="missing_su">Your device is either not rooted or the app was denied root permissions.\n\nPlease check your root/su status and try again later.</string>
+    <string name="text_illegal_value">DPI on this device cannot be set to %1$s\n\nPlease go back and set value from 330 to 480.\n\nThank you!</string>
+    <string name="back_button_custom">Back to Custom DPI</string>
+    <string name="exit">Exit app</string>
+    <string name="gaining_root">Acquiring root access. Please wait...</string>
+    <string name="dpi_set_toast">Your DPI was set to %1$s</string>
+    <string name="reboot_title">Reboot Prompt</string>
+    <string name="reboot_message">Your DPI was set to %1$s.\n\nTo apply the changes your device needs to be rebooted.\n\nWould you like to reboot now?\n\nYou can choose to reboot later and your current DPI will remain unchanged untill that time.</string>
+    <string name="reboot_now">Reboot now</string>
+    <string name="reboot_later">I\'ll reboot later</string>
+
+</resources>
