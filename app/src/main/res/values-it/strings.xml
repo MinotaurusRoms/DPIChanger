@@ -5,7 +5,7 @@
     <string name="action_settings">Impostazioni</string>
     <string name="dialog_title">Seleziona Dpi</string>
     <string name="show_current_dpi">DPI Changer\nValore corrente: %1$s</string>
-    <string-array name="dpi_values">
+    <string-array name="dpi_dialog_items">
         <item>480 dpi</item>
         <item>450 dpi</item>
         <item>420 dpi</item>
