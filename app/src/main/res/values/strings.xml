@@ -5,7 +5,7 @@
     <string name="action_settings">Settings</string>
     <string name="dialog_title">Select Dpi</string>
     <string name="show_current_dpi">DPI Changer\nYour Current DPI is %1$s</string>
-    <string-array name="dpi_values">
+    <string-array name="dpi_dialog_items">
         <item>480 dpi</item>
         <item>450 dpi</item>
         <item>420 dpi</item>
@@ -14,8 +14,15 @@
         <item>330 dpi</item>
         <item>Custom DPI</item>
     </string-array>
-    <string name="ok">Ok</string>
-    <string name="cancel">Cancel</string>
+    <string-array name="dpi_dialog_values">
+        <item>480</item>
+        <item>450</item>
+        <item>420</item>
+        <item>390</item>
+        <item>360</item>
+        <item>330</item>
+        <item>Custom DPI</item>
+    </string-array>
     <string name="executed" translatable="false">###Executed###</string>
     <string name="custom_dpi_input">Please input value from 330 to 480</string>
     <string name="text_hint">Input dpi value here</string>

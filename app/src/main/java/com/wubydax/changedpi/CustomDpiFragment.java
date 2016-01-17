@@ -59,7 +59,7 @@ public class CustomDpiFragment extends DialogFragment {
         mEdit = (EditText) view.findViewById(R.id.custom_dpi);
         builder.setView(view);
         builder.setIcon(R.drawable.ic_launcher);
-        builder.setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
+        builder.setPositiveButton(android.R.string.ok, new DialogInterface.OnClickListener() {
 
             @Override
             public void onClick(DialogInterface dialog, int which) {
@@ -98,7 +98,7 @@ public class CustomDpiFragment extends DialogFragment {
             }
         });
 
-        builder.setNegativeButton(R.string.cancel, new DialogInterface.OnClickListener() {
+        builder.setNegativeButton(android.R.string.cancel, new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
                 dialog.dismiss();

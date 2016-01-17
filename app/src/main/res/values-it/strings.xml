@@ -14,8 +14,6 @@
         <item>330 dpi</item>
         <item>Valore personalizzato</item>
     </string-array>
-    <string name="ok">Ok</string>
-    <string name="cancel">Cancella</string>
     <string name="executed">###Executed###</string>
     <string name="custom_dpi_input">Inserisci un valore tra 330 e 480</string>
     <string name="text_hint">Digita qui</string>
