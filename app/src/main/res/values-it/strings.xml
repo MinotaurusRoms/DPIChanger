@@ -25,10 +25,4 @@
     <string name="back_button_custom">Torna all\'inserimento</string>
     <string name="exit">Esci dall\' app</string>
     <string name="gaining_root">Acquisendo permessi di root. Attendi...</string>
-    <string name="dpi_set_toast">Dpi impostato a %1$s</string>
-    <string name="reboot_title">Riavvio</string>
-    <string name="reboot_message">Dpi impostato a %1$s.\n\nRiavvio necessario per applicare le modifiche.\n\nVuoi riavviare ora?\n\nPuoi selezionare riavvia dopo e fino ad allora non sarà applicato.</string>
-    <string name="reboot_now">Riavvia ora</string>
-    <string name="reboot_later">Riavvierò dopo</string>
-
 </resources>

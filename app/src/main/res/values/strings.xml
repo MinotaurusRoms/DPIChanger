@@ -34,10 +34,4 @@
     <string name="back_button_custom">Back to Custom DPI</string>
     <string name="exit">Exit app</string>
     <string name="gaining_root">Acquiring root access. Please wait...</string>
-    <string name="dpi_set_toast">Your DPI was set to %1$s</string>
-    <string name="reboot_title">Reboot Prompt</string>
-    <string name="reboot_message">Your DPI was set to %1$s.\n\nTo apply the changes your device needs to be rebooted.\n\nWould you like to reboot now?\n\nYou can choose to reboot later and your current DPI will remain unchanged untill that time.</string>
-    <string name="reboot_now">Reboot now</string>
-    <string name="reboot_later">I\'ll reboot later</string>
-
 </resources>
